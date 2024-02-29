@@ -1,8 +1,8 @@
 # Reto-2
 Este repositorio contiene el reto 2 de la clase de programación, el cual consiste en 
-Correr el siguiente codigo
-	if __name__ == "__main__" :
-  print("Hola mundo")
+Correr el siguiente codigo:
+		if __name__ == "__main__" :
+  		print("Hola mundo")
 
 ### Terminal
 ![](https://i.postimg.cc/QMCbTvTv/Repo2-1.png)
