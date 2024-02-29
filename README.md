@@ -3,8 +3,6 @@ Este repositorio contiene el reto 2 de la clase de programación, el cual consis
 Correr el siguiente codigo
 	if __name__ == "__main__" :
 	print("Hola mundo")
-	if __name__ == "__main__" :
-	print("Hola mundo")
 
 ### Terminal
 ![](https://i.postimg.cc/QMCbTvTv/Repo2-1.png)
